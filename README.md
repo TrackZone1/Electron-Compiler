@@ -6,18 +6,15 @@ Electron Compiler is a tool that allows you to compile your electron application
 
 In order for your Electron application to compile correctly check that in your "package.json" you have:
 
-```json "start": "electron ." ```
+```javascript
+"start": "electron ." 
+```
 
 ### Installation
 
 A step by step guide that will tell you how to get the development environment up and running.
 The rest will be automatically managed by the application.
 
-```
-$ First step
-$ Another step
-$ Final step
-```
 ### Features
 
 * Easy Use ✅
