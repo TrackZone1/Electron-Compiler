@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+body {
+    background-color: #131416;
+}
+
+* {
+  color: #fff;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+pre {
+    color: #fff!important; 
+}
+
+a {
+    text-decoration: none !important;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: #fff;
+}
+
+.navbar_anondev {
+    z-index: 90010099;
+}
+
+.nav_info {
+    text-align:left
+}
+
+.nav_page_info {
+    text-align:center
+}
+
+.nav_logout {
+    text-align:right
+}
+
+.card, .form-group, select, textarea, input {
+    background-color:#1a1b1e !important;
+}
+
+.discord_color {
+    color: #7289da;
+}
+
+.form-control {
+    border-color: #1a1b1e;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 0, 0.6);
+}
+
+.form-control:focus {
+    border-color: #FF0000;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+.input-group-text {
+
+    color: #fff !important;
+    background-color: #c82333 !important;
+    border-color: #bd2130 !important;
+
+}
+
+.dropdown-menu {
+  background-color: #131416 !important;
+}
+
+.dropdown-item{
+    color: #fff !important;
+}
+
+.dropdown-item:hover {
+    background-color: #1a1b1e !important;
+}
+
+.dropdown-item:active {
+    background-color: #1a1b1e !important;
+} 
