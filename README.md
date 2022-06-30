@@ -8,6 +8,12 @@ In order for your Electron application to compile correctly check that in your "
 
 ```javascript
 "start": "electron ." 
+"build": { // Not require (Recommanded)
+  "files": [
+    "node_modules/**/*",
+    "package.json"
+   ]
+}
 ```
 
 ### Installation
